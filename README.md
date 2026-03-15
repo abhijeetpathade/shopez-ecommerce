@@ -66,7 +66,7 @@ npm install
 
 <br>
 
-For Backend Backend
+For Backend 
 
 cd server
 
