@@ -45,7 +45,7 @@ server/ → Node + Express backend
 
 ## Run Project Locally
 
-## 1️⃣ Clone Repository
+### 1️⃣ Clone Repository
 
 bash
 git clone https://github.com/yourusername/shopez-ecommerce.git
@@ -53,7 +53,8 @@ cd shopez-ecommerce
 
 <br>
 
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
+
 Frontend
 
 cd client
@@ -66,7 +67,7 @@ npm install
 
 <br>
 
-3️⃣ Environment Variables
+### 3️⃣ Environment Variables
 
 Create a .env file inside the server folder
 
@@ -78,18 +79,19 @@ JWT_SECRET=your_secret_key
 
 <br>
 
-5️⃣ Start Frontend
+### 5️⃣ Start Frontend
+
 cd client
 npm run dev
 
 
 <br>
-🗄 Database
+
+### 🗄Database
 
 Database is hosted using MongoDB Atlas.
 
 Collections used:
-
 users
 products
 orders
