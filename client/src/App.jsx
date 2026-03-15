@@ -9,7 +9,7 @@ import Cart from './pages/Cart.jsx';
 import Contact from './pages/contact.jsx';
 import Auth from "./pages/Auth.jsx";
 import AdminDashboard from './pages/AdminDashboard.jsx';
-import Checkout from "./pages/Checkout";
+import Checkout from "./pages/Checkout.jsx";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
