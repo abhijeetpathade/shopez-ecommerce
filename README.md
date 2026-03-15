@@ -58,14 +58,15 @@ cd shopez-ecommerce
 
 ### 2️⃣ Install Dependencies
 
-Frontend
+For Frontend
 
 cd client
 
 npm install
 
+<br>
 
-Backend
+For Backend Backend
 
 cd server
 
