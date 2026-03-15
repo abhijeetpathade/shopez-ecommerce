@@ -51,6 +51,7 @@ server/ → Node + Express backend
 
 bash
 git clone https://github.com/yourusername/shopez-ecommerce.git
+
 cd shopez-ecommerce
 
 <br>
@@ -60,11 +61,14 @@ cd shopez-ecommerce
 Frontend
 
 cd client
+
 npm install
 
 
 Backend
+
 cd server
+
 npm install
 
 <br>
@@ -81,11 +85,17 @@ JWT_SECRET=your_secret_key
 
 <br>
 
+### 4️⃣ Start Backend
+
+cd server
+npm run dev
+
+<br>
+
 ### 5️⃣ Start Frontend
 
 cd client
 npm run dev
-
 
 <br>
 
