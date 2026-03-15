@@ -14,7 +14,7 @@ const handleRegister = async (e) => {
 
   e.preventDefault();
 
-  const res = await fetch("http://localhost:8000/api/auth/register",{
+  const res = await fetch("http://https://shopez-ecommerce-backend.onrender.com/api/auth/register",{
     method:"POST",
     headers:{
       "Content-Type":"application/json"
@@ -44,7 +44,7 @@ const handleLogin = async (e) => {
 
   e.preventDefault();
 
-  const res = await fetch("http://localhost:8000/api/auth/login",{
+  const res = await fetch("http://https://shopez-ecommerce-backend.onrender.com/api/auth/login",{
     method:"POST",
     headers:{
       "Content-Type":"application/json"
