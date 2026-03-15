@@ -3,6 +3,8 @@
 ShopEZ is a full-stack e-commerce web application built using the MERN stack.
 It allows users to browse products, register/login, add items to cart, and place orders.
 
+<br>
+
 ## Tech Stack
 
 Frontend:
@@ -20,7 +22,7 @@ Database:
 Authentication:
 - JWT (JSON Web Token)
 
-
+<br>
 
 ## Features
 
@@ -34,14 +36,14 @@ Authentication:
 - Responsive UI
 - Modern Navbar with Search
 
-
+<br>
 
 ## Project Structure
 client/ → React frontend
 
 server/ → Node + Express backend
 
-
+<br>
 
 ## Run Project Locally
 
@@ -92,9 +94,13 @@ npm run dev
 Database is hosted using MongoDB Atlas.
 
 Collections used:
+
 users
+
 products
+
 orders
+
 carts
 
 
