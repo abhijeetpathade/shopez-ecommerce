@@ -6,7 +6,7 @@ import Home from './pages/Home.jsx';
 import Products from './pages/Products.jsx';
 import ProductDetails from './pages/ProductDetails.jsx';
 import Cart from './pages/Cart.jsx';
-import Contact from './pages/contact.jsx';
+import Contact from './pages/Contact.jsx';
 import Auth from "./pages/Auth.jsx";
 import AdminDashboard from './pages/AdminDashboard.jsx';
 import Checkout from "./pages/Checkout.jsx";
