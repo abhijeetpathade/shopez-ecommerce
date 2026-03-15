@@ -38,6 +38,7 @@ Authentication:
 
 ## Project Structure
 client/ → React frontend
+
 server/ → Node + Express backend
 
 
@@ -51,15 +52,18 @@ git clone https://github.com/yourusername/shopez-ecommerce.git
 cd shopez-ecommerce
 
 
+
 ### 2 Install dependencies
 Frontend
 cd client
 npm install
 
 
+
 Backend
 cd server
 npm install
+
 
 
 ### 3 Environment Variables
@@ -72,14 +76,17 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 
 
+
 ### 4 Start Backend
 cd server
 npm run dev
 
 
+
 ### 5 Start Frontend
 cd client
 npm run dev
+
 
 
 
