@@ -28,7 +28,7 @@ const products = [
     name: "Laptop",
     price: 50000,
     image:
-      "https://www.cnet.com/a/img/resize/bb8a2aa9c31f8ec08d82228a51eabf05f00e54d2/hub/2025/03/10/d190e21d-9634-440d-8f33-396c8cb3da6a/m4-macbook-air-15-11.jpg?auto=webp&height=500",
+      "https://rog.asus.com/media/1778553956975.jpg",
   },
   {
     id: 5,
